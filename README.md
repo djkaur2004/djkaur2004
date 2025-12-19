@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=1500&pause=1500&color=3AC7FF&center=true&vCenter=true&multiline=true&width=550&height=120&lines=Welcome+%F0%9F%91%8B+;I'm+Divyajot+Kaur+;Happy+to+have+you+here+%E2%80%94+exploring+ideas+through+code+%F0%9F%92%AB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=1500&pause=1500&color=3AC7FF&center=true&vCenter=true&width=550&height=120&lines=Welcome+%F0%9F%91%8B+;I'm+Divyajot+Kaur+;Happy+to+have+you+here+%E2%80%94+exploring+ideas+through+code+%F0%9F%92%AB)](https://git.io/typing-svg)
 
 ## Hi 👋, I'm Divyajot Kaur  
 
